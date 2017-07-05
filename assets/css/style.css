@@ -50,3 +50,7 @@ table {
     width: 100%;
     height: auto;
 }
+.container-carrousel{
+	width: 60%;
+	margin: 0 auto;
+}
