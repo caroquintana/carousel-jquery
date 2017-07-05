@@ -55,6 +55,7 @@ section{
 	background-repeat: none;
 	background-position: center center;
 	width: 100%;
+	height: 100vh;
 
 }
 .carousel{
@@ -68,7 +69,7 @@ h1{
 	text-align: center;
 }
 .container-carrousel{
-	width: 60%;
+	width: 80%;
 	margin: 0 auto;
 	margin-bottom:40px;
 }
