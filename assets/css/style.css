@@ -50,9 +50,27 @@ table {
     width: 100%;
     height: auto;
 }
+section{
+	background: url(../img/fondomiau.jpeg);
+	background-repeat: none;
+	background-position: center center;
+	width: 100%;
+
+}
+.carousel{
+	border: 10px solid whitesmoke;
+}
+h1{
+	font-family: 'Pacifico', cursive;
+	font-size: 3em;
+	margin-bottom: 40px;
+	margin-top: 30px;
+	text-align: center;
+}
 .container-carrousel{
 	width: 60%;
 	margin: 0 auto;
+	margin-bottom:40px;
 }
 .fa{
 	font-size: 15px;
@@ -90,4 +108,10 @@ table {
 .carousel-control {
     opacity: 1;
     filter: alpha(opacity=100);
+}
+footer{
+	background-color: lavender;
+	padding: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
 }
